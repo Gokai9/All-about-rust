@@ -1,30 +1,33 @@
 use std::collections::HashMap;
 
-struct Node {
-    children: Vec<Node>,
-    nodetype: NodeType,
+#[derive(Debug)]
+pub struct Node {
+    pub children: Vec<Node>,
+    pub nodetype: NodeType,
 }
 
-enum NodeType {
+#[derive(Debug)]
+pub enum NodeType {
     Text(String),
     ElementType(Element),
 }
 
-struct Element {
+#[derive(Debug)]
+pub struct Element {
     tag: String,
     attr: Map,
 }
 
-type Map = HashMap<String, String>;
+pub type Map = HashMap<String, String>;
 
-fn text(data: String) -> Node {
+pub fn text(data: String) -> Node {
     Node {
         children: Vec::new(),
         nodetype: NodeType::Text(data),
     }
 }
 
-fn element(tag: String, attr: Map, children: Vec<Node>) -> Node {
+pub fn element(tag: String, attr: Map, children: Vec<Node>) -> Node {
     Node {
         children: children,
         nodetype: NodeType::ElementType(Element {

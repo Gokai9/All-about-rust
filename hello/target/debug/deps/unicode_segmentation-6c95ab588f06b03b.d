@@ -1,0 +1,11 @@
+/home/yozora/Web/rustsq/hello/target/debug/deps/unicode_segmentation-6c95ab588f06b03b.rmeta: /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/lib.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/grapheme.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/tables.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/word.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/sentence.rs
+
+/home/yozora/Web/rustsq/hello/target/debug/deps/libunicode_segmentation-6c95ab588f06b03b.rlib: /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/lib.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/grapheme.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/tables.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/word.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/sentence.rs
+
+/home/yozora/Web/rustsq/hello/target/debug/deps/unicode_segmentation-6c95ab588f06b03b.d: /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/lib.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/grapheme.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/tables.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/word.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/sentence.rs
+
+/home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/lib.rs:
+/home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/grapheme.rs:
+/home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/tables.rs:
+/home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/word.rs:
+/home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/sentence.rs:

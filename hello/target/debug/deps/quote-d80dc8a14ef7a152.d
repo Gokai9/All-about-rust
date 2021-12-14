@@ -1,0 +1,13 @@
+/home/yozora/Web/rustsq/hello/target/debug/deps/quote-d80dc8a14ef7a152.rmeta: /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.10/src/lib.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.10/src/ext.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.10/src/format.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.10/src/ident_fragment.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.10/src/to_tokens.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.10/src/runtime.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.10/src/spanned.rs
+
+/home/yozora/Web/rustsq/hello/target/debug/deps/libquote-d80dc8a14ef7a152.rlib: /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.10/src/lib.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.10/src/ext.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.10/src/format.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.10/src/ident_fragment.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.10/src/to_tokens.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.10/src/runtime.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.10/src/spanned.rs
+
+/home/yozora/Web/rustsq/hello/target/debug/deps/quote-d80dc8a14ef7a152.d: /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.10/src/lib.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.10/src/ext.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.10/src/format.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.10/src/ident_fragment.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.10/src/to_tokens.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.10/src/runtime.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.10/src/spanned.rs
+
+/home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.10/src/lib.rs:
+/home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.10/src/ext.rs:
+/home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.10/src/format.rs:
+/home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.10/src/ident_fragment.rs:
+/home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.10/src/to_tokens.rs:
+/home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.10/src/runtime.rs:
+/home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.10/src/spanned.rs:

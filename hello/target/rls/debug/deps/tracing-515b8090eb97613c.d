@@ -1,0 +1,13 @@
+/home/yozora/Web/rustsq/hello/target/rls/debug/deps/tracing-515b8090eb97613c.rmeta: /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/lib.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/macros.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/dispatcher.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/field.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/instrument.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/level_filters.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/span.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/stdlib.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/subscriber.rs
+
+/home/yozora/Web/rustsq/hello/target/rls/debug/deps/tracing-515b8090eb97613c.d: /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/lib.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/macros.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/dispatcher.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/field.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/instrument.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/level_filters.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/span.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/stdlib.rs /home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/subscriber.rs
+
+/home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/lib.rs:
+/home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/macros.rs:
+/home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/dispatcher.rs:
+/home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/field.rs:
+/home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/instrument.rs:
+/home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/level_filters.rs:
+/home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/span.rs:
+/home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/stdlib.rs:
+/home/yozora/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.29/src/subscriber.rs:
